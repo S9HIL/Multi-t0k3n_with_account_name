@@ -22,11 +22,11 @@
     ```bash
     cd Multi-t0k3n_with_account_name
     ```
-
+    
 4. Run Command
-   '''bash
+   ```bash
    python multi.py
-   '''
+   ```
 
 ---
 
