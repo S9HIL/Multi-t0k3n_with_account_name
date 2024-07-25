@@ -25,7 +25,7 @@
 
 ---
 
-**Note:##This tool is **paid** and **not free**.
+**Note:** ## This tool is paid and not free.
 
 
 
