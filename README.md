@@ -25,9 +25,7 @@
 
 ---
 
-**Note:** ## This tool is paid and not free.
-
-
+<p style="font-size: 24px; font-weight: bold; text-align: center; color: red;">**This tool is PAID and NOT FREE**</p>
 
 
 
