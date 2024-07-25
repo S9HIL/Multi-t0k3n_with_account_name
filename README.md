@@ -8,10 +8,10 @@
 
 ## Setup Instructions
 
-1. Install the required Python packages:
+1. Clone The Git Repository :
     ```bash
-    pip install -r requirements.txt
-    ```
+    https://github.com/S9HIL/Multi-t0k3n_with_account_name.git
+        ```
 
 2. Navigate to the tool directory:
     ```bash
