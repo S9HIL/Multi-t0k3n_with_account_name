@@ -25,7 +25,7 @@
 
 ---
 
-<p style="font-size: 30px; font-weight: bold; text-align: center; color: red;">**This tool is PAID **</p>
+## This Tool is  **Paid**
 
 
 
