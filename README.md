@@ -10,8 +10,8 @@
 
 1. Clone The Git Repository :
     ```bash
-    https://github.com/S9HIL/Multi-t0k3n_with_account_name.git
-        ```
+    git clone https://github.com/S9HIL/Multi-t0k3n_with_account_name.git
+    ```
 
 2. Navigate to the tool directory:
     ```bash
