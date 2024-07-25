@@ -2,7 +2,7 @@
 
 ![Eagle Eye](https://i.ibb.co/f4Jk28h/images.jpg)  
 
-## This tool is made by **⛛⃪꯭𝐒𝐀᭄H͜͡l̐̈Ꮭ❤️CHOUDHARY**
+## This tool is made by **⛛SʌH͜͡l̐̈Ꮭ❤️CHOUDHARY**
 
 ---
 
