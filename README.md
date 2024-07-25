@@ -13,15 +13,20 @@
     git clone https://github.com/S9HIL/Multi-t0k3n_with_account_name.git
     ```
 
-2. Navigate to the tool directory:
+2. Install All Packages With This Command:
+    ```bash
+    pip -r install requirements.txt
+    ```
+
+3. Navigate To The Main Directory:
     ```bash
     cd Multi-t0k3n_with_account_name
     ```
 
-3. Run the tool:
-    ```bash
-    python multi.py
-    ```
+4. Run Command
+   '''bash
+   python multi.py
+   '''
 
 ---
 
