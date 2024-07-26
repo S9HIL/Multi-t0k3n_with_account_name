@@ -15,7 +15,7 @@
 
 2. Install All Packages With This Command:
     ```bash
-    pip -r install requirements.txt
+    pip install -r requirements.txt
     ```
 
 3. Navigate To The Main Directory:
